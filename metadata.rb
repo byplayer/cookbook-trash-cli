@@ -1,0 +1,7 @@
+name             'cookbook-trash-cli'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures cookbook-trash-cli'
+long_description 'Installs/Configures cookbook-trash-cli'
+version          '0.1.0'
